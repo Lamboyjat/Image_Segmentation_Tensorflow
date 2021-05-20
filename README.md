@@ -3,7 +3,7 @@ developing and testing a convolutional neural network for semantic image segment
 
 There are different Models and Architecture of Convolutional Neural Network such as:
 
-LeNET, AlexNET, VGG, U-Net, 
+LeNET, AlexNET, VGG, U-Net and Inception 
 
 All these model have some common Convoulution layers
 Convolutional Layer - the first layer that is used to extract the various features from the input images.
@@ -24,6 +24,7 @@ such as the ReLU, Softmax, tanH and the Sigmoid functions.
 This is aim to show case an understand how semantic image segmentation work using CNN models 
 
 I choose to use U-Net because all neural network are use for a specific purpose on training neural network
-for the purpose of this task I decide to use the U-Net.
+for the purpose of this task I decide to use the U-Net. This is because U-NET is relatively new architecture
+propose by Ronnebeger et al for semantic image segmentation on bio data.
 
 Dataset are obtain from: https://www.kaggle.com/c/data-science-bowl-2018/data 
